@@ -6,7 +6,7 @@
 ### 项目运行结果截图
   * PPT展示截图
   
-![text](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/image_3.png)
+![text](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/Smile博客截图/image_3.png)
 
 ![text](https://github.com/ZiTonzong/MyImagesLibrary/blob/master/image_4.png)
 
